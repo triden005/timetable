@@ -1,4 +1,4 @@
-## AN Overkilling TimeTable elctron app using electron forge && webpack :-)
+## AN Overkilling TimeTable electron app using electron forge && webpack :-)
 
 ---
 
