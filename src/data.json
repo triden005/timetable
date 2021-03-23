@@ -1,0 +1,35 @@
+{
+  "monday": [
+    { "start": "9:00am", "end": "10:00am", "subject": "EVS" },
+    { "start": "10:15am", "end": "11:15am", "subject": "NM" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "OS" },
+    { "start": "12:45pm", "end": "1:45pm", "subject": "COA" },
+    { "start": "3:15pm", "end": "6:15pm", "subject": "OSLAB" }
+  ],
+  "tuesday": [
+    { "start": "11:30am", "end": "12:30pm", "subject": "OS" },
+    { "start": "12:45pm", "end": "1:45pm", "subject": "COA" },
+    { "start": "2:00pm", "end": "3:00pm", "subject": "EVS" },
+    { "start": "3:15pm", "end": "4:15pm", "subject": "NM" },
+    { "start": "4:30pm", "end": "6:30pm", "subject": "ITLAB" }
+  ],
+  "wednesday": [
+    { "start": "9:00am", "end": "10:00am", "subject": "DAA" },
+    { "start": "10:15am", "end": "11:15am", "subject": "OOPD" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "COA" },
+    { "start": "12:45pm", "end": "1:45pm", "subject": "COA" },
+    { "start": "2:00pm", "end": "3:00pm", "subject": "OS" }
+  ],
+  "thursday": [
+    { "start": "10:15am", "end": "11:15am", "subject": "OOPD" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "COA" },
+    { "start": "3:15pm", "end": "6:15pm", "subject": "OOPDLAB" }
+  ],
+  "friday": [
+    { "start": "10:15am", "end": "11:15am", "subject": "OOPD" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "COA" },
+    { "start": "3:15pm", "end": "6:15pm", "subject": "DAALAB" }
+  ],
+  "saturday": [{ "start": "10:15am", "end": "1:15pm", "subject": "DSDLAB" }],
+  "sunday": []
+}
