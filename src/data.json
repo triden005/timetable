@@ -21,13 +21,13 @@
     { "start": "2:00pm", "end": "3:00pm", "subject": "OS" }
   ],
   "thursday": [
-    { "start": "10:15am", "end": "11:15am", "subject": "OOPD" },
-    { "start": "11:30am", "end": "12:30pm", "subject": "COA" },
+    { "start": "10:15am", "end": "11:15am", "subject": "DAA" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "OOPD" },
     { "start": "3:15pm", "end": "6:15pm", "subject": "OOPDLAB" }
   ],
   "friday": [
-    { "start": "10:15am", "end": "11:15am", "subject": "OOPD" },
-    { "start": "11:30am", "end": "12:30pm", "subject": "COA" },
+    { "start": "10:15am", "end": "11:15am", "subject": "DAA" },
+    { "start": "11:30am", "end": "12:30pm", "subject": "OOPD" },
     { "start": "3:15pm", "end": "6:15pm", "subject": "DAALAB" }
   ],
   "saturday": [{ "start": "10:15am", "end": "1:15pm", "subject": "DSDLAB" }],
