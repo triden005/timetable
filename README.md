@@ -7,5 +7,8 @@
 
 * starting in dev server
   - yarn start
+
+
+ON WINDOWS
 * Building .exe
   - yarn package
